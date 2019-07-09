@@ -1,0 +1,70 @@
+body {
+    background-color: lightgray;
+}
+
+.backgroundstyle {
+    background-color: white;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+h1 {
+    color : darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    font-size: 37px;
+}
+
+h2 {
+    color : darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 37px;
+    margin: auto;
+}
+
+.navbar-brand {
+    background-color:darkcyan;
+}
+
+.navbar-default {
+    padding-left:80px;
+}
+
+.row {
+    background-color: white;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.frontpicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.com_picture {
+    float: left;
+    width: 50%;
+    padding: 5px;
+    /* width: 40%; */
+}
+
+.mainpicture {
+    width:90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
